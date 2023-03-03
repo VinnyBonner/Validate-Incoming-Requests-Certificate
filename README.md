@@ -1,4 +1,4 @@
-# Example code of validating incoming requests using a specific certificate.
+# Example Code of Validating Incoming Requests using a Certificate.
 
 #### Resources
 [Securing Azure Functions using Certificate Authentication](https://damienbod.com/2020/09/04/securing-azure-functions-using-certificate-authentication/)
